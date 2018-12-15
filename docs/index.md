@@ -26,47 +26,22 @@ Lectures slides are heavily based on the teaching materials provided by the publ
  
 **Lecture Slides** (that is, lectures in presentation form) can be found here:
 
-1. [**Introduction** - Lecture 1](https://kmlv.github.io/Econ100A/S1_Introduction.html)
+1. [**Introduction** - Lecture 1](https://fengnawu.github.io/econ-final-18/S1_Introduction/)
 
-2. [**Budget Constraint- Ch 2**](https://kmlv.github.io/Econ100A/S2_Budget_Constraint_Ch2.html)
+2. [**Budget Constraint- Ch 2**](https://fengnawu.github.io/econ-final-18/S2_ConsumerChoice/)
 
-3. [**Preferences- Ch 3**](https://kmlv.github.io/Econ100A/S3_Preferences_Ch3.html)
+3. [**Preferences- Ch 3**](https://fengnawu.github.io/econ-final-18/S3_Producer/)
 
-4. [**Utility- Ch 4**](https://kmlv.github.io/Econ100A/S4_Utility_Ch4.html)
+4. [**Utility- Ch 4**](https://fengnawu.github.io/econ-final-18/S4_Markets/)
 
-5. [**Choice- Ch 5**](https://kmlv.github.io/Econ100A/S5_Choice_Ch5.html)
-
-6. [**Demand- Ch 6** ](https://kmlv.github.io/Econ100A/S6_Demand_Ch6.html)
-
-7. [**Market Demand- Ch 15**](https://kmlv.github.io/Econ100A/S7_Market_Demand_Ch15.html)
-
-8. [**Technology- Ch 19**](https://kmlv.github.io/Econ100A/S8_Technology_Ch19.html)
-
-9. [**Cost Minimization- Ch 21**](https://kmlv.github.io/Econ100A/S9_CostMinimization_Ch21.html)
-
-10. [**Cost Curves C 22**](https://kmlv.github.io/Econ100A/S10_CostCurves_Ch22.html)
-
-11. [**Firm Supply and Industry Supply - Ch 23, 24**](https://kmlv.github.io/Econ100A/S11_FirmSupply_Ch23.html)
-
-12. [**Equilibrium- Ch 16**](https://kmlv.github.io/Econ100A/S12_Equilibrium_Ch16.html)
-
-13. [**Monopoly- Ch 25**](https://kmlv.github.io/Econ100A/S13_Monopoly_Ch25.html)
-
-14. [**Oligopoly- Ch 28**](https://kmlv.github.io/Econ100A/S14_Oligopoly_Ch28.html)
-
-15. [**Game Theory- Ch 29, 30**](https://kmlv.github.io/Econ100A/S15_GameTheory_Ch29_Ch30.html)
+5. [**Choice- Ch 5**](https://fengnawu.github.io/econ-final-18/S5_GameTheory/)
 
 
-Webcast of lectures can be found here: [https://webcast.ucsc.edu](https://webcast.ucsc.edu)
 
 
 ## Readings
 
 Up-to-date reading assignments per week can be found in the last page of the [Syllabus](http://bit.ly/econ100a_s17)
-
-## Homework Assignments
-
-Homework assignments (and their solutions) can be found in the left navigation menu of this page ([https://kmlv.github.io/Econ100A/](https://kmlv.github.io/Econ100A/)).
 
 
 ## Other relevant materials and sources

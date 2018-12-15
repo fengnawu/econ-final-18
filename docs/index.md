@@ -26,15 +26,15 @@ Lectures slides are heavily based on the teaching materials provided by the publ
  
 **Lecture Slides** (that is, lectures in presentation form) can be found here:
 
-1. [**Introduction** - Lecture 1](https://fengnawu.github.io/econ-final-18/S1_Introduction/)
+1. [**Introduction** - Lecture 1](https://fengnawu.github.io/econ-final-18/S1_Introduction.html)
 
-2. [**Budget Constraint- Ch 2**](https://fengnawu.github.io/econ-final-18/S2_ConsumerChoice/)
+2. [**Budget Constraint- Ch 2**](https://fengnawu.github.io/econ-final-18/S2_ConsumerChoice.html)
 
-3. [**Preferences- Ch 3**](https://fengnawu.github.io/econ-final-18/S3_Producer/)
+3. [**Preferences- Ch 3**](https://fengnawu.github.io/econ-final-18/S3_Producer.html)
 
-4. [**Utility- Ch 4**](https://fengnawu.github.io/econ-final-18/S4_Markets/)
+4. [**Utility- Ch 4**](https://fengnawu.github.io/econ-final-18/S4_Markets.html)
 
-5. [**Choice- Ch 5**](https://fengnawu.github.io/econ-final-18/S5_GameTheory/)
+5. [**Choice- Ch 5**](https://fengnawu.github.io/econ-final-18/S5_GameTheory.html)
 
 
 
